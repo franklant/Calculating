@@ -1,5 +1,5 @@
-Class project for COMP167 at North Carolina A&T State University
-Tasked with using javax components to create a personal scientific calculator
+Class project for COMP167 at North Carolina A&T State University.
+Tasked with using javax components to create a personal scientific calculator.
 
 What I learned: 
 - How to use javax and swing components for projects
